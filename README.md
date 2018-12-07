@@ -19,14 +19,13 @@ Tools - 	Netbeans, Eclipse, Code blocks,Notepad++
 
 Various Projects on C and Java language.
 
-# Interests
-Programming,sports
-
 # Education
 Daffodil International University. 
 B.S.C in Software Engineering
 Year: 2017
  
+ # Interests
+Programming,sports.
 
 
 
