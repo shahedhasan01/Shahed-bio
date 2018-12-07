@@ -1,6 +1,6 @@
-# I am Shahed Hasan
-Email Address: shahedhasansoA@gmail.com
+# I am Shahed Hasan.
 I am a software developer and passioniate with programming.
+Email Address: shahedhasansoA@gmail.com
 
 
 # Objective
