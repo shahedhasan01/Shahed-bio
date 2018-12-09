@@ -15,9 +15,9 @@ Languages/Web Development	- C, Java,OOP, SQL,Python
 Databases	- Oracle 
 Tools - 	Netbeans, Eclipse, Code blocks,Notepad++
 	 
-# Experience
-
-Various Projects on C and Java language.
+# Academic Projects
+Customer Billing System - Final  
+It is based on language c and  build  to work on cash center.
 
 # Education
 Daffodil International University. 
