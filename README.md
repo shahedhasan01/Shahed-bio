@@ -11,14 +11,18 @@ I am looking forward to join a progressive organization. I am Strong team builde
 An experienced team lead and team player with excellent communication and interpersonal skills who has the ability to work independently under pressure.
 
 # Skills
-Languages/Web Development	- C, Java,OOP, SQL,Python
-Databases	- Oracle 
+Languages/Web Development	- C, Java,OOP, SQL,Python.
+
+Databases	- Oracle .
+
 Tools - 	Netbeans, Eclipse, Code blocks,Notepad++
 	 
 # Projects
-Customer Billing System - Final  
+Customer Billing System. 
 It is based on language c and  build  to work on cash center.
-car functionality , written on java language.
+
+Car functionality.
+written on java language.
 
 # Education
 Daffodil International University. 
