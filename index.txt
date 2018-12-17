@@ -1,0 +1,100 @@
+<html>
+<head>
+<title> RESUME </title>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="style.css" media="screen">
+</head>
+
+<body>
+<center>
+<h1>
+<u> MY RESUME </u>
+</h1>
+</center>
+
+<p> 
+<font size="8" face="arial"color="black">
+    Shahed<br> 
+    Hasan<br>
+</font>
+ </p>
+    <p> 
+<font size="3" face="arial"color="black">
+  Developer<br> <br>
+</font>
+<img src="shahed.jpg" style="float: left">
+ </p>
+<font size="2" face="arial"color="black">
+  
+   Email:
+   <a href=""> 
+    shahedhasansoa@gmail.com <br>
+</a>
+Web:
+     <a
+href ="https://sites.google.com/view/shahedblog/home"
+@shahedhasan
+</a>
+    <br>
+     
+ <hr>
+   </font> </p> 
+
+    <font size="4">
+          <p>  I am a software developer.I love to do programming and building new softwares.
+              I am an experienced team lead and team player with excellent communication and interpersonal skills who has the ability to work independently under pressure.
+               </p> <br><br>
+</font>
+   
+
+<hr>
+<font color="green">
+
+</font>
+<hr>
+<h2>
+<div style="background-color:blue;color: white; padding: 05px;">
+<u> Career Objectives </u>
+</h2>
+<font size="4">
+<p>  I am looking forward to join a progressive organization.I am Strong team builder and leader. I have high level of personal morals and integrity. 
+     I am Goal oriented, self-motivated and committed to the successful outcome of the project.
+     I am willing to work hard and have a great desire to learn.
+</p>
+</font>
+
+<h2>
+     
+    <div style="background-color:blue;color: white; padding: 05px;">
+<u>  Skills </u>
+</h2>
+
+<font size="4">
+<li> Languages/Web Development- C, Java,OOP, SQL,Python.
+<li> Databases	- Oracle .
+<li> Tools - Netbeans, Eclipse, Code blocks,Notepad++.
+</li> 
+</font>  
+<h2>     
+
+  
+    <div style="background-color:blue;color: white; padding: 05px;">
+<u> Interest </u>
+</h2>
+
+<font size="4">
+<li> programming
+<li> Travel
+<li> Sports
+</li> 
+</font>  
+<h2>
+     
+
+
+
+
+
+
+</body>   
+</html>
